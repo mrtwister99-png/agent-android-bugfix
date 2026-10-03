@@ -1,4 +1,4 @@
-name: Loyo Bug Hunter
+﻿name: Loyo Bug Hunter
 on:
   schedule:
     - cron: '*/15 * * * *'
